@@ -1,5 +1,5 @@
 void main() {
-  // Create a list of fruits represented as maps
+ 
   List<Map<String, dynamic>> fruits = [
     {"name": "Apple", "color": "Red", "price": 2.5},
     {"name": "Banana", "color": "Yellow", "price": 1.0},
